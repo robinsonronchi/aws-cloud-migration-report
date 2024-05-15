@@ -1,7 +1,7 @@
 # RELATÓRIO DE IMPLEMENTAÇÃO DE SERVIÇOS AWS
 
 Data: [data de início do projeto]
-Empresa: Abstergo Industries 
+Empresa: Abstergo Industries
 Responsável: [nome do responsável pelo projeto]
 
 ## Introdução
